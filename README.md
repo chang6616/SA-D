@@ -1,4 +1,3 @@
-# SA-D
 # 作業區<br>
 - [心智圖](https://gitmind.com/app/docs/mrjv63wc)<br>
 
