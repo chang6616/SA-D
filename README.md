@@ -1,8 +1,8 @@
 # 作業區<br>
 - [心智圖](https://gitmind.com/app/docs/mrjv63wc)<br>
-- [作業2影片](https://github.com/chang6616/SA-D/blob/main/hw2.wmv)
-- [作業3影片](https://github.com/chang6616/SA-D/blob/main/hw3.wmv)
-- [作業4影片](https://github.com/chang6616/SA-D/blob/main/hw4.wmv)
+- [作業2影片](https://youtu.be/vJJplhHHs3s)
+- [作業3影片](https://youtu.be/-RJ6kgCetH0)
+- [作業4影片](https://youtu.be/pyyYxC6xkHg)
 
 # Web 3<br>
 ## Web 3是什麼?<br>
